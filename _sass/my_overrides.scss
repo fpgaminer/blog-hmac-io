@@ -1,0 +1,86 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	line-height: 2em;
+}
+
+a:hover, a.post-link:hover, .social-media-list a:hover .username, a:visited:hover {
+	color: #007500;
+	text-decoration: none;
+}
+
+.post-content a {
+	text-decoration: underline;
+}
+
+.site-header {
+	border-top: 0;
+	border-bottom: 0;
+	font-family: 'Major Mono Display', monospace;
+}
+
+.site-header a, .site-header a:visited {
+	color: #007500;
+}
+
+.site-header a:hover {
+	text-decoration: none;
+}
+
+.post-title {
+	font-weight: 700;
+}
+
+.contact-list .p-name {
+	display: none;
+}
+
+.site-header .wrapper {
+	margin-left: 0;
+	margin-right: 0;
+	max-width: 100%;
+	margin-bottom: 40px;
+}
+
+.post-list-heading {
+	display: none;
+}
+
+a, a:visited {
+	color: #000;
+}
+
+.post-list li {
+	border-bottom: 1px solid #eee;
+	padding-bottom: 2em;
+	margin-bottom: 4em;
+}
+
+.site-footer {
+	opacity: 0.2;
+	border-top: 0;
+}
+
+.site-footer .wrapper {
+	margin-left: 0;
+	margin-right: 0;
+	max-width: 100%;
+	margin-bottom: 40px;
+}
+
+.footer-heading {
+	font-family: 'Major Mono Display', monospace;
+}
+
+p {
+	margin-bottom: 2em;
+}
+
+h2 {
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+	font-weight: 600;
+}
+
+h3 {
+	font-weight: 600;
+}
